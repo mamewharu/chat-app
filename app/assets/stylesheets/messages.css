@@ -87,12 +87,6 @@
   margin: 10px 0 0 0;
 }
 
-.message-right {
-  margin: 10px 0 0 0;
-  text-align: right;
-}
-
-
 .upper-message {
   display: flex;
 }
@@ -112,7 +106,14 @@
   margin-bottom: 40px;
 }
 
+.message-right {
+  text-align: right;
+}
 
+.upper-message {
+  display: flex;
+  text-align: right;
+}
 
 .form {
   background-color: #DDDDDD;
